@@ -133,6 +133,9 @@ in {
             enable = true;
             email = {
               enable = true;
+              thunderbird = {
+                enable = true;
+              };
               accounts = [
                 {
                   address = "horn_clemens@t-online.de";
