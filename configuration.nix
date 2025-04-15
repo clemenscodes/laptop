@@ -29,16 +29,19 @@
       wheel = true;
       user = "clemens";
     };
+    gpu = {
+      enable = true;
+    };
     gaming = {
       enable = true;
       steam = {
         enable = true;
       };
-      battlenet = {
+      lutris = {
         enable = true;
-        warcraft = {
-          enable = true;
-        };
+      };
+      w3champions= {
+        enable = true;
       };
     };
     boot = {
@@ -217,6 +220,9 @@
       };
       virt-manager = {
         enable = true;
+        windows = {
+          enable = true;
+        };
       };
     };
     themes = {
