@@ -136,9 +136,6 @@
     };
     security = {
       enable = true;
-      diceware = {
-        enable = true;
-      };
       gnome-keyring = {
         enable = true;
       };
@@ -402,9 +399,6 @@
             };
             editing = {
               enable = true;
-              davinci = {
-                enable = true;
-              };
               gstreamer = {
                 enable = true;
               };
