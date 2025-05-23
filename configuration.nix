@@ -87,8 +87,8 @@
     };
     fonts = {
       enable = true;
-      defaultFont = "VictorMono Nerd Font";
-      size = 8;
+      defaultFont = "Iosevka Nerd Font";
+      size = 12;
     };
     home-manager = {
       enable = true;
