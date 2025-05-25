@@ -40,7 +40,7 @@
       lutris = {
         enable = true;
       };
-      w3champions= {
+      w3champions = {
         enable = true;
       };
     };
@@ -274,6 +274,9 @@
               signing = {
                 enable = true;
                 gpgFingerprint = "52E30A92E24B09D5";
+              };
+              lazygit = {
+                enable = true;
               };
             };
           };
